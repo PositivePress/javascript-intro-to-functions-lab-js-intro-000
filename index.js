@@ -36,6 +36,9 @@ function sayHiToGrandma(string) {
   if (shout)
   return("YES INDEED!");
 
+  if(mixedCase)
+  return("YES INDEED!");
+
   if("I love you, Grandma.")
   return("I love you, too.")
 }
