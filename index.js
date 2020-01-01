@@ -30,9 +30,9 @@ function sayHiToGrandma(string) {
 
   mixedCase.toUpperCase() === mixedCase // false
 
-  if (string === lowercase)
+  if (whisper)
   return("I can\'t hear you!");
 
-  if (string === uppercase)
+  if (shout)
   return("YES INDEED!");
 }
