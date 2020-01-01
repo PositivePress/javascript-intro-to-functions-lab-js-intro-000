@@ -33,4 +33,6 @@ function sayHiToGrandma(string) {
   if ('whisper');
   return 'I can\'t hear you!'
 
+  if ('shout');
+  return 'YES INDEED!'
 }
