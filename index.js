@@ -9,6 +9,13 @@ function whisper(string) {
 function logShout(string) {
   console.log(shout(string))
 }
+
 function logWhisper(string) {
   console.log(whisper(string))
+}
+
+function sayHiToGrandma(string) {
+  if (string === lowercase)
+  return;
+  console.log("I can't hear you!")
 }
